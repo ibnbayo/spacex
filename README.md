@@ -6,7 +6,7 @@ Pagination is already handled for you in app.js, this can be enhanced if you wis
 
 Currently, the app displays the following:
 
-![screen.png](screenshot.png)
+![img.png](img.png)
 
 Your task is to style this information in whatever way you feel.  Have fun and show off your frontend skills!
 
