@@ -19,11 +19,13 @@ This is a web app that displays inormation on SpaceX launches.
 - Unit, integration and end-to-end tests with Jest and Cypress
 - Further animation on hover to imrove user experience
 - Typography
+- Improved card styling to sync with image
 - Modal or Link to new tab to show more information on specific launch
 - Automated CI workflows using Github Actions
 - Code formatting with Prettier
 - SEO enhancements such as metadata tags
 - Error UI
+
  
 ### Available Scripts
 
